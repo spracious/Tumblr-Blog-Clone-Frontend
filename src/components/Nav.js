@@ -292,13 +292,13 @@ function Nav() {
               <button class="btn log">Log in</button>
             </Link>
 
-            <Link
+            {/* <Link
             class="nav-link"
             style={{ color: "rgb(0, 184, 255)", fontWeight:"bold", textDecoration: "none", fontStyle:"italic", marginTop:"10px",}}
             to="/adminLogin"
           >
             Admin 
-          </Link>
+          </Link> */}
           </form>
         </div>
       </nav>
